@@ -113,10 +113,10 @@ Located in `/scripts` folder:
 
 **TestToken Contract:**
 
-* Ropsten: [View](https://ropsten.etherscan.io/address/0x0190f80487179053eb85451454541644AbAf4048#contracts)
-* Rinkeby: [View](https://rinkeby.etherscan.io/address/0xb54039DAC3C4ADdAC082e86a6e9C290E80af9488#contracts)
+* Ropsten: [View](https://ropsten.etherscan.io/address/0x0190f8041454587179053eb854541644AbAf4048#contracts)
+* Rinkeby: [View](https://rinkeby.etherscan.io/address/0xb54039DAC3C4AD290EdAC082e86a6e9C80af9488#contracts)
 
-Admin Address: `0x3349ca399168dF1c0df96a49410F5F9940241AbC`
+Admin Address: `0x33496a49410F5F9941AbCca399168dF1c0df9402`
 
 ---
 
