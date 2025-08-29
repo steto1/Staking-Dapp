@@ -6,7 +6,7 @@ A blockchain-based staking application built with **React**, **Solidity**, and d
 ---
 
 ## License
-
+ 
 This project is licensed for **educational and reference purposes only**.
 Use, modification, or resale of the code requires obtaining a license from the author.
 
