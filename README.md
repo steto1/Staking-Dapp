@@ -3,8 +3,6 @@
 
 A blockchain-based staking application built with **React**, **Solidity**, and deployed on Ethereum test networks (**Ganache**, **Ropsten**, **Rinkeby**).
 
-![Preview](src/assets/screenshot.png)
-
 ---
 
 ## License
